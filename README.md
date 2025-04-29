@@ -90,8 +90,6 @@ Use the provided `sample_test_transactions.csv` to simulate multiple predictions
 ## 👨‍💻 Authors
 
 - **Shrihari Kasar**
-- **Utkarsha Kakulte**
-- **Rohit Khadangle**
 
 ---
 
